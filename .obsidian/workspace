@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "294899d8b6588c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9864e17894c8a97",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23c6c18850006de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a2275925e6d84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee6612b7e8db1afb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "724811701da6de0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efce62d0dc796994",
+    "type": "split",
+    "children": [
+      {
+        "id": "c68f9639f26d3e56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a285f1e60dcba22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e9864e17894c8a97",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "content/notes/setup.md",
+    "content/notes/config.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}
