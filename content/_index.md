@@ -2,26 +2,19 @@
 title: 🪴 René Kuhn
 ---
 Hallo in meinem Digitalen Garten.
-Hier halte ich meine Learnings für mich fest. Ich interessiere mich aktuell für:
-- AWS 
-- IoT
-- DeepLearning
-- Web3
-- Self Hostable Machine Learning 
+Hier halte ich meine Learnings für mich fest.
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+## Meine aktuellen Interessen
+ - Deep Learning 
+ - IoT 
+ - Robotics
+ - Web Scraping 
+ - Comminity Building
+ - Web3
+ - DevOps 
+ - Backend API Development (FastAPI)
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+## Kontakt 
+Email: [renekuhn1997@gmail.com ](mailto:renekuhn1997@gmail.com)
+Mobil: +4915120203923 
