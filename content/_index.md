@@ -2,7 +2,8 @@
 title: 🪴 René Kuhn
 ---
 Hallo in meinem Digitalen Garten.
-Hier halte ich meine Learnings für mich fest.
+Hier will ich meine Learnings für mich festhalen.
+Diese Seite ist ein Experiment.
 
 ## Meine aktuellen Interessen
  - Deep Learning 
@@ -16,5 +17,7 @@ Hier halte ich meine Learnings für mich fest.
 
 
 ## Kontakt 
-Email: [renekuhn1997@gmail.com ](mailto:renekuhn1997@gmail.com)
-Mobil: +4915120203923 
+
+📧 Email: [renekuhn1997@gmail.com ](mailto:renekuhn1997@gmail.com)
+
+📱 Mobil: [+4915120203923 ](tel:+4915120203923)
