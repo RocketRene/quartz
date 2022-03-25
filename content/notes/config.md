@@ -10,17 +10,17 @@ Quartz is designed to be extremely configurable. You can find the bulk of the co
 The majority of configuration can be be found under `data/config.yaml`. An annotated example configuration is shown below.
 
 ```yaml
-name: Your name here! # Shows in the footer
+name: René Kuhn # Shows in the footer
 enableToc: true # Whether to show a Table of Contents
 enableLinkPreview: true # whether to render card previews for links
 description: Page description to show to search engines
-page_title: Quartz Example Page # Default Page Title
+page_title: note # Default Page Title
 
 links: # Links to show in footer
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/rocketrene1
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/RocketRene
 ```
 
 ### Graph View
