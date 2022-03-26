@@ -5,6 +5,8 @@ Hallo in meinem Digitalen Garten.
 Hier will ich meine Learnings für mich festhalen.
 Diese Seite ist ein Experiment.
 
+
+
 ## Meine aktuellen Interessen
  - Deep Learning 
  - IoT 
@@ -14,6 +16,7 @@ Diese Seite ist ein Experiment.
  - Web3
  - DevOps 
  - Backend API Development (FastAPI)
+ - Biologie
 
 
 ## Kontakt 

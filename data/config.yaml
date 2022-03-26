@@ -1,13 +1,12 @@
-name: Jacky Zhao
+name: René Kuhn
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Hallo in meinem Digitalen Garten. Hier will ich meine Learnings für mich festhalen. Diese Seite ist ein Experiment.
 page_title:
-  "🪴 Quartz 3.1"
+  "🪴 René Kuhn"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/rocketrene1
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/RocketRene
