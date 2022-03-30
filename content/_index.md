@@ -19,7 +19,7 @@ Diese Seite ist ein Experiment.
  - Biologie
 
 
-![[Greengrass]]
+[[Greengrass]]
 
 
 ## Kontakt 
