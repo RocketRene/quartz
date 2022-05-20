@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/AWS/Greengrass.md",
+            "file": "().md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/AWS/Greengrass.md",
+                "file": "().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e9864e17894c8a97",
   "lastOpenFiles": [
-    "content/AWS/Greengrass.md",
-    "aws/Greengrass.md",
+    "().md",
     "content/_index.md",
+    "content/templates/post.md",
     "aws/greengras.md",
+    "aws/Greengrass.md",
+    "content/AWS/Greengrass.md",
     "AWS/Greengrass.md",
     "static/icon.png",
     "content/Was macht Simplifa?.md",
-    "content/notes/setup.md",
-    "content/notes/config.md",
-    "README.md"
+    "content/notes/setup.md"
   ]
 }
