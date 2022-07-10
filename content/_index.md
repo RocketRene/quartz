@@ -28,6 +28,7 @@ I am pretty courios about all sorts of things, you can find a list of topics tha
  - Backend API Development (FastAPI)
  - Event Driven Architecture 
  - Security 
+ - Teambuilding
 
 
 
